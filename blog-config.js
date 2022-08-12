@@ -1,14 +1,13 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "majorTom",
+  description: "Ground control to major Tom",
+  author: "majorTom",
+  siteUrl: "https://mybabygrand.github.io/gatsby-starter-hoodie/",
   links: {
-    github: "https://github.com/devHudi",
+    github: "https://github.com/mybabygrand",
     linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    email: "mailto:devhudi@gmail.com",
+    email: "mailto:amuro_ray@kakao.com",
+    resume: "http://www.naver.com"
   },
   utterances: {
     repo: "devHudi/gatsby-starter-hoodie",
