@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mybabygrand.github.io/myBabyGrand/sitemap/sitemap-index.xml
+Sitemap: https://mybabygrand.github.io/my-hoodie-blog/sitemap/sitemap-index.xml
 Host: https://mybabygrand.github.io
